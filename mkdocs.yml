@@ -2,7 +2,7 @@ site_name: Invat.eu Help
 site_description: Informatii Help | Invat.eu
 site_url: https://help.invat.eu.us/
 repo_url: https://github.com/creare-site/invat-eu-help/
-google_analytics: ['UA-104843706-2', 'help.invat.eu']
+google_analytics: ['UA-108240832-2', 'help.invat.eu']
 
 markdown_extensions:
   - meta
