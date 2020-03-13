@@ -5,21 +5,18 @@ Platforma educationala Invat.eu - Help oficial.
 <br />
 
 ## Ce este Invat.eu 
----
 
 @Wip
 
 <br />
 
 ## Cum ajutam sistemul educational
----
 
 @Wip
 
 <br />
 
 ## Continut nou
----
 
 - Item 1
 - Item 1
