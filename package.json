@@ -1,0 +1,30 @@
+{
+    "name": "invat-eu-help",
+    "version": "0.0.1",
+    "description": "Platforma educationala Invat.eu - Help oficial",
+    "devDependencies": {
+        "rimraf": "^2.5.2"
+    },
+    "engines": {
+        "node": ">=0.10.1"
+    },
+    "scripts": {
+        "start"    : "mkdocs serve",
+        "build"    : "mkdocs build",
+        "deploy"   : "rimraf ./site && mkdocs build && node deploy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/creare-site/invat-eu-help"
+    },
+    "bugs": {
+        "url": "https://github.com/creare-site/invat-eu-help/issues",
+        "email": "contact@invat.eu"
+    },
+    "author": "Invat.eu - (https://invat.eu)",
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "ftp-deploy": "^2.3.3"
+    }
+}

@@ -1,0 +1,15 @@
+site_name: Invat.eu Help
+site_description: Informatii Help | Invat.eu
+site_url: https://help.invat.eu.us/
+repo_url: https://github.com/creare-site/invat-eu-help/
+google_analytics: ['UA-104843706-2', 'help.invat.eu']
+
+markdown_extensions:
+  - meta
+
+nav:
+- Definitii:  
+  - 'Toata Lista'            : 'definitie/index.md'   
+
+- Cum Invat:  
+  - 'Toata Lista'            : 'cum/index.md'   
